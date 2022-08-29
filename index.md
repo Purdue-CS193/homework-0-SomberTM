@@ -1,15 +1,4 @@
-# This my site now
+# Thomas's First CS193 Homework
 
-- ###### Welcome to me github site its so amazing
-
-* 1
-* 2
-* 3
-* 4
-* 5
-* 6
-* 7
-* 8
-* 9
-* 10
-* 12
+### My Favorite things About CS193!!!!
+- Elijah Colwill
